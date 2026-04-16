@@ -452,3 +452,4 @@ Hem frontend hem backend geliştiren kişi.
 Bu repo, temel yazılım kavramlarını **karmaşıklaştırmadan öğretmek** için hazırlanmıştır.
 
 ---
+
